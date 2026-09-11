@@ -1,0 +1,13 @@
+.latest-match-card {
+  background-color: #0f172a;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+  font-family: "Bree Serif";
+}
+
+.latest-match-logo {
+  width: 150px;
+}
